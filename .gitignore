@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+
+# Data outputs
+output/
+workspaces/
+input/
+
+# Gmail exports
+*.mbox
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
