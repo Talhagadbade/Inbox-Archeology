@@ -23,6 +23,8 @@ leaves your machine.
 
 ## Relationship Graph
 
+<img src="https://raw.githubusercontent.com/monapdx/Inbox-Archeology/refs/heads/main/graphs.png" width="743">
+
 Visualizes your inbox as an **ego network** centered on you.
 
 -   node size = message volume\
