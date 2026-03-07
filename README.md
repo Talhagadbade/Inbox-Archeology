@@ -3,8 +3,6 @@
 **Inbox Archeology** is a local-first tool that analyzes your **Gmail
 Takeout export** to reconstruct the social history of your inbox.
 
-<img src="https://raw.githubusercontent.com/monapdx/Inbox-Archeology/refs/heads/main/Dashboard.png" width="743">
-
 It transforms a raw `.mbox` archive into an interactive dashboard
 showing:
 
@@ -13,6 +11,8 @@ showing:
 -   reciprocity patterns (who wrote whom)
 -   long-term communication timelines
 -   core vs peripheral relationships
+
+<img src="https://raw.githubusercontent.com/monapdx/Inbox-Archeology/refs/heads/main/Dashboard.png" width="743">
 
 Everything runs **entirely on your computer**. Your email data never
 leaves your machine.
